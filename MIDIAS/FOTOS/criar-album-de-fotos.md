@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 1. Faça [login](https://app.enuves.com) na sua instituição.
 2. Na barra superior, passe o cursor do mouse sobre o módulo correspondente a **Mídias**.
 3. Em seguida clique no recurso **Fotos**.
-    - ![](./assets/clique-midias-fotos.png)
+    - ![midias/Fotos](./assets/clique-midias-fotos.png)
 4. Tendo clicado, será exibido a tela de álbuns de fotos.
 5. No lado direito há um pequeno formulário para a Criação do Álbum.
     - Preencha-o inserindo um **Nome** para o álbum e uma **Descrição**(opcional).

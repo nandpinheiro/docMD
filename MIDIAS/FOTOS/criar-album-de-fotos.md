@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 <Tabs queryString="current-os">
   <TabItem value="computer" label="No computador">
   
-    1. Faça [login](https://app.enuves.com) na sua instituição.
+1. Faça [login](https://app.enuves.com) na sua instituição.
 2. Na barra superior, passe o cursor do mouse sobre o módulo correspondente a **Mídias**.
 3. Em seguida clique no recurso **Fotos**.
     - ![](./assets/clique-midias-fotos.png)
@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 
   </TabItem>
   <TabItem value="mobile" label="No dispositivo móvel">
-   1. Abra o aplicativo Enuves e faça login na sua instituição.
+1. Abra o aplicativo Enuves e faça login na sua instituição.
 2. No canto inferior esquerdo da barra de ferramentas, toque no ícone do **Menu** (3 barras horizontais).
     -   ![]()
 3. No Menu, toque em **Mídias** e em seguida em **Fotos**.
